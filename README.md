@@ -9,7 +9,7 @@ A simple console-based Python program where the user guesses a randomly generate
    -  Implementation: vscode console app
    -   Testing: Manual testing
    -    Deployment: GitHub
-   -     Maintenance: Bug fixes and improvements
+   -     Maintenance: Bug fixes 
 
 5) How to Run
 python game.py
